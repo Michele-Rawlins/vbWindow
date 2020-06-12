@@ -4,7 +4,8 @@
 
 body {
   // background-image: url("https://images.unsplash.com/photo-1590246578723-cda485c7ae72?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
-  // background-image: url("https://images.unsplash.com/photo-1577213229949-67d0ce2cb5a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://images.unsplash.com/photo-1542328689-df6c076c1604?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  
   background-color: whitesmoke;
   color: #c83621;
   -webkit-background-size: cover;
@@ -14,8 +15,8 @@ body {
 }
 
 nav {
-  // color: #c83621;
-  color: black;
+  color: #c83621;
+  // color: black;
   font-family: Satisfy;
   font-size: 3em;
   // size: 155px;
@@ -25,7 +26,15 @@ nav {
 
 h1 {
   text-align: center;
-  color: black;
+  color: #c83621;
+  // color: black;
   font-family: Satisfy;
-  font-size: 3em;
+  font-size: 4em;
+}
+.front-end {
+  padding:25px;
+  margin-right: 40px;
+  border-radius: 20px;
+  width: 175px;
+
 }
