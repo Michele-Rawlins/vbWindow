@@ -1,0 +1,22 @@
+{
+  "reviews": {
+    "review1":{
+      "imgUrl": "https://live.staticflickr.com/65535/49998510363_ba4e1e4e34.jpg"
+    },
+    "review2":{
+      "imgUrl": "https://live.staticflickr.com/65535/49998510208_71b1bda085.jpg"
+    },
+    "review3":{
+      "imgUrl": "https://live.staticflickr.com/65535/49999031611_7befc5d305.jpg" 
+    },
+    "review4":{
+      "imgUrl": "https://live.staticflickr.com/65535/49999031391_f3d07290dd.jpg" 
+    },
+    "review5":{
+      "imgUrl": "https://live.staticflickr.com/65535/49998509698_0f4afc0d0f.jpg" 
+    },
+    "review6":{
+      "imgUrl": "https://live.staticflickr.com/65535/49999030656_603bacc592.jpg" 
+    }
+  }
+}
