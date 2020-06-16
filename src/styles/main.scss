@@ -32,6 +32,7 @@ h1 {
   // color: black;
   font-family: Satisfy;
   font-size: 4em;
+  text-decoration: underline;
 }
 .front-end {
   padding:25px;
@@ -39,4 +40,26 @@ h1 {
   border-radius: 20px;
   width: 175px;
 
+}
+h2 {
+  text-align: center;
+  color:#d32129;
+  // color: #c83621;
+  // color: black;
+  font-family: Satisfy;
+  font-size: 4em;
+  text-decoration: underline;
+
+}
+
+.promise-text {
+  text-align: center;
+  font-family: Satisfy;
+  font-size: 30px;
+  color: whitesmoke;
+}
+.review {
+  display: table-row;
+  width: 350px;
+  height: 350px;
 }
